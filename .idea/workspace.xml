@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dadfce34-23a9-4475-bca3-96c629402fdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="minisize-spring" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vqBiZV13JicaevXryEs8choX8E" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/minisize-spring-step01/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/member-center-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.cn.missing9.springframework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.missing9.springframework.beans" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\workspace1\minisize-spring\minisize-spring-step-01\src\main\java\com\missing9\springframework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BeanDefinition">
+    <configuration name="ApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.missing9.springframework.test.ApiTest" />
+      <module name="minisize-spring-step-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.missing9.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanDefinition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.missing9.springframework.BeanDefinition" />
+      <module name="minisize-spring-step-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.missing9.springframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_BeanFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minisize-spring-step-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.missing9.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.missing9.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.missing9.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinisizeSpringStep01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="minisize-spring-step-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.missing9.springframework.MinisizeSpringStep01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinisizeSpringStep02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="minisize-spring-step-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.missing9.springframework.beans.MinisizeSpringStep02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanDefinition" />
+        <item itemvalue="Application.ApiTest" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadfce34-23a9-4475-bca3-96c629402fdf" name="Default Changelist" comment="" />
+      <created>1627279866132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627279866132</updated>
+      <workItem from="1627279871462" duration="15378000" />
+      <workItem from="1627352236562" duration="5215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1627280218074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1627280218074" />
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1627283187139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1627283187139" />
+    <state x="413" y="143" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1627281191708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="143" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1627281191708" />
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1627301804417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1627301804417" />
+    <state x="319" y="230" width="727" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1627370941105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="230" width="727" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1627370941105" />
+    <state x="316" y="221" width="962" height="507" key="#xdebugger.evaluate" timestamp="1627304250440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="316" y="221" width="962" height="507" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1627304250440" />
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1627303231783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1627303231783" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1627349671883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1627349671883" />
+    <state width="1323" height="326" key="GridCell.Tab.0.bottom" timestamp="1627352091159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1627352091159" />
+    <state width="1323" height="326" key="GridCell.Tab.0.center" timestamp="1627352091159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1627352091159" />
+    <state width="1323" height="326" key="GridCell.Tab.0.left" timestamp="1627352091159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1627352091159" />
+    <state width="1323" height="326" key="GridCell.Tab.0.right" timestamp="1627352091159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1627352091159" />
+    <state width="1323" height="326" key="GridCell.Tab.1.bottom" timestamp="1627352091160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1627352091160" />
+    <state width="1323" height="326" key="GridCell.Tab.1.center" timestamp="1627352091160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1627352091160" />
+    <state width="1323" height="326" key="GridCell.Tab.1.left" timestamp="1627352091159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1627352091159" />
+    <state width="1323" height="326" key="GridCell.Tab.1.right" timestamp="1627352091160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="326" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1627352091160" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1627282696983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1627282696983" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1627281325161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627281325161" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1627304517266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1627304517266" />
+    <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1627281297858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1627281297858" />
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1627281513233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1627281513233" />
+    <state x="419" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1627281359517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1627281359517" />
+    <state x="324" y="81" width="892" height="558" key="new project wizard" timestamp="1627370375247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="81" width="892" height="558" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1627370375247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/minisize-spring-step-01/src/main/java/com/missing9/springframework/BeanDefinition.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
