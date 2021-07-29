@@ -1,4 +1,4 @@
-package com.missing9.springframework.beans.factory.support;
+package com.missing9.springframework.bean.factory.support;
 
 /**
  * @author Kylin

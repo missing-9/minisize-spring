@@ -1,4 +1,4 @@
-package com.missing9.springframework.beans;
+package com.missing9.springframework.bean.factory.support;
 
 /**
  * @author Kylin
@@ -6,5 +6,5 @@ package com.missing9.springframework.beans;
  * @project minisize-spring
  * @date 2021/7/27 0027
  */
-public class BeanException {
+public class BeanDefinitionRegistry {
 }

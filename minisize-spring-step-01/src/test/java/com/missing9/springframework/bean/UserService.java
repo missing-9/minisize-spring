@@ -1,4 +1,4 @@
-package com.missing9.springframework.test.bean;
+package com.missing9.springframework.bean;
 
 /**
  * @author Kylin

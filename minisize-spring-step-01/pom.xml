@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.missing9.springframework</groupId>
-    <artifactId>minisize-spring-step01</artifactId>
+    <artifactId>minisize-spring-step-01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>minisize-spring-step01</name>
-    <description>minisize-spring-step01</description>
+    <name>minisize-spring-step-01</name>
+    <description>minisize-spring-step-01</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

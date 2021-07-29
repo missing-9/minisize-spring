@@ -2,7 +2,7 @@ package com.missing9.springframework.test;
 
 import com.missing9.springframework.BeanDefinition;
 import com.missing9.springframework.BeanFactory;
-import com.missing9.springframework.test.bean.UserService;
+import com.missing9.springframework.bean.UserService;
 import org.junit.Test;
 
 /**

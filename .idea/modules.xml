@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/minisize-spring.iml" filepath="$PROJECT_DIR$/minisize-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/minisize-spring-step-01/minisize-spring-step-01.iml" filepath="$PROJECT_DIR$/minisize-spring-step-01/minisize-spring-step-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minisize-spring-step-01/minisize-spring-step-01.iml" filepath="$PROJECT_DIR$/minisize-spring-step-01/minisize-spring-step-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/minisize-spring-step-02/minisize-spring-step-02.iml" filepath="$PROJECT_DIR$/minisize-spring-step-02/minisize-spring-step-02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/minisize-spring-step-01/src/main/java/com/missing9/springframework/minisize-spring-step01.iml" filepath="$PROJECT_DIR$/minisize-spring-step-01/src/main/java/com/missing9/springframework/minisize-spring-step01.iml" />
     </modules>
   </component>
 </project>
